@@ -28,12 +28,5 @@ class EventServiceProvider extends ServiceProvider
     public function boot()
     {
         parent::boot();
-
-        // You can also use this method to manually register event listeners if needed
-        // For example:
-        // Event::listen(
-        //     SubmissionSaved::class,
-        //     [LogSubmissionSaved::class, 'handle']
-        // );
     }
 }
