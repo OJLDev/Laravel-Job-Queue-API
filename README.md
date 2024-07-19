@@ -19,8 +19,8 @@ Laravel
 Clone the Repository
 
 ===============
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/OJLDev/Laravel-Job-Queue-API.git
+cd path/Laravel-Job-Queue-API
 ===============
 
 Install Dependencies
